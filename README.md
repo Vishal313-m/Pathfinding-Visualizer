@@ -1,10 +1,10 @@
-# Pathfinding-Visualizer
-Built ReactJS application for visualizing pathfinding 
-and  implemented  Dijkstra's algorithm. It give shortest path between  starting node and ending node 
+## Pathfinding Visualizer
 
-Dijkstra algorithm
------>
-Dijkstra's algorithm allows us to find the shortest path between any two vertices of a graph. It differs from the minimum spanning tree because the shortest distance between two vertices might not include all the vertices of the graph.
+This project was built based on my interest for learning pathfinding algorithms, and I decided I would do so by building a visualizer to help me better understand the concepts (currently: Dijkstra's Algorithm). Have fun discovering different paths!
 
-![image](https://user-images.githubusercontent.com/85690685/180444168-42f875ef-a497-4a80-aae1-0d5d92d04163.png)
+Get to the Pathfinding Visualizer here: https://jackiewong99.github.io/Pathfinding-Visualizer  
+<br />
 
+## Dijkstra's Algorithm
+
+A weighted pathfinding algorithm that, in this case, finds the shortest path between two nodes in a grid.
