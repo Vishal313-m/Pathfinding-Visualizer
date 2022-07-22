@@ -1,5 +1,5 @@
 # Pathfinding-Visualizer
-# Built ReactJS application for visualizing pathfinding 
+Built ReactJS application for visualizing pathfinding 
 and  implemented  Dijkstra's algorithm. It give shortest path between  starting node and ending node 
 
 Dijkstra algorithm
